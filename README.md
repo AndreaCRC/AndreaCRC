@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreaCRC
-- 👀 I’m interested in learning to code in R.
-- 🌱 I’m currently learning to code in R.
-- 💞️ I’m looking to collaborate on (guess what?).
+- 👀 I’m interested in learning to code in R
+- 🌱 I’m currently learning to code in R
+- 💞️ I’m looking to collaborate on (guess what?)
 - 📫 How to reach me: send a pidgeon!
 
 <!---
